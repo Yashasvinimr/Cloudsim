@@ -1,0 +1,5 @@
+Algorithm Name, MakeSpan, Throughput, Avg Wait Time, Avg Response Time, Avg Turnaround Time, Cloudlet Count
+FCFS, 3.50, 1.71, 0.02, 0.20, 0.20, 6
+Priority, 2.25, 2.67, 0.02, 0.18, 0.18, 6
+SJF, 3.30, 1.82, 0.02, 0.28, 0.28, 6
+Round Robin, 8.40, 1.43, 0.33, 5.17, 5.17, 6
